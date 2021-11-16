@@ -50,4 +50,4 @@ This project uses GitHub graphQL API to get the commit histories and write into 
 
 ---
 
-update it2
+update it3
